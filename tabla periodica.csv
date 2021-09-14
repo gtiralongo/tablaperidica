@@ -1,0 +1,114 @@
+1,hidrogeno,H,a1 Singular,1,1,1s1,-259.1,-252.69
+2,helio,He,0 gas noble,4.003,2. 0,1s2,-272.2,-268.9
+3,litio,Li,a1 alcalino,6.941,2. 1.,[H e]. 2s1,180.5,1317
+4,berilio,Be,a2 alcalino-terreo,9.012,2. 2.,[H e]. 2s2,1278,2970
+5,boro,B,a3 terreo,10.811,2. 3.,[H e]. 2s2. 2p1,2300,2550
+6,carbono,C,a4 carbonoideo,12.011,2. 4.,[H e]. 2s2. 2p2,3550,4827
+7,nitrogeno,N,a5 nitrogenoideo,14.007,2. 5.,[H e]. 2s2. 2p3,-209.9,-195.8
+8,oxigeno,O,a6 anfigeno,15.999,2. 6.,[H e]. 2s2. 2p4,-218.4,-182.9
+9,fluor,F,a7 halogeno,18.998,2. 7.,[H e]. 2s2. 2p5,-219.6,-188.1
+10,neon,Ne,0 gas noble,20.180,2 8.,[H e]. 2s2. 2p6,-248.7,-246.1
+11,sodio,Na,a1 alcalino,22.990,2 8. 1.,[N e]. 3s1,97.8,892
+12,magnesio,Mg,a2 alcalino-terreo,24.305,2 8. 2.,[N e]. 3s2,648.8,1107
+13,aluminio,Al,a3 terreo,26.982,2 8. 3.,[N e]. 3s2. 3p1,660.5,2467
+14,silicio,Si,a4 carbonoideo,28.086,2 8. 4.,[N e]. 3s2. 3p2,1410,2355
+15,fosforo,P,a5 nitrogenoideo,30.974,2 8. 5.,[N e]. 3s2. 3p3,44,280
+16,azufre,S,a6 anfigeno,32.066,2 8. 6.,[N e]. 3s2. 3p4,113,444.7
+17,cloro,Cl,a7 halogeno,35.453,2 8. 7.,[N e]. 3s2. 3p5,-34.6,-101
+18,argon,Ar,0 gas noble,39.948,2 8. 8.,[N e]. 3s2. 3p6,-189.4,-185.9
+19,potasio,K,a1 alcalino,39.098,2 8. 8; 1.,[A r]. 4s1,63.7,774
+20,calcio,Ca,a2 alcalino-terreo,40.078,2 8. 8; 2.,[A r]. 4s2,839,1487
+21,escandio,Sc,b3 metal de transicion,44.956,2 8. 9. 2;,[A r]. 4s2. 3d1,1539,2832
+22,titanio,Ti,b4 metal de transicion,47.867,2 8. 10. 2;,[A r]. 4s2. 3d2,1660,3260
+23,vanadio,V,b5 metal de transicion,50.942,2 8. 11. 2;,[A r]. 4s2. 3d3,1890,3380
+24,cromo,Cr,b6 metal de transicion,51.996,2 8. 13. 1;,[A r].. 4s1.. 3d5,1857,2482
+25,manganeso,Mn,b7 metal de transicion,54.938,2 8. 13; 2.,[A r]. 3d5. 4s2,1244,2097
+26,hierro,Fe,b8 metal de transicion,55.845,2 8. 14. 2;,[A r]. 4s2. 3d6,1535,2750
+27,cobalto,Co,b8 metal de transicion,58.933,2 8. 15. 2;,[A r]. 4s2. 3d7,1495,2870
+28,niquel,Ni,b8 metal de transicion,58.693,2 8. 16. 2;,[A r]. 4s2. 3d8,1453,2732
+29,cobre,Cu,b1 metal de transicion,63.546,2 8 18. 1;,[A r]. 4s1. 3d10,1083.5,2595
+30,cinc,Zn,b2 metal de transicion,65.390,2 8 18. 2.,[A r]. 3d10. 4s2,419.6,907
+31,galio,Ga,a3 terreo,69.723,2 8 18. 3.,[A r]. 4s2. 3d10. 4p1,29.8,2403
+32,germanio,Ge,a4 carbonoideo,72.610,2 8 18. 4.,[A r]. 4s2. 3d10. 4p2,937.4,2830
+33,arsenico,As,a5 nitrogenoideo,74.922,2 8 18. 5.,[A r]. 4s2. 3d10. 4p3,613,613
+34,selenio,Se,a6 anfigeno,78.960,2 8 18. 6.,[A r]. 4s2. 3d10. 4p4,217,685
+35,bromo,Br,a7 halogeno,79.904,2 8 18. 7.,[A r]. 4s2. 3d10. 4p5,-7.3,58.8
+36,kripton,Kr,0 gas noble,83.800,2 8 18. 8.,[A r]. 4s2. 3d10. 4p6,-156.6,-152.3
+37,rubidio,Rb,a1 alcalino,85.468,2 8 18. 8; 1.,[Kr]. 5s1,39,688
+38,estroncio,Sr,a2 alcalino-terreo,87.620,2 8 18. 8; 2.,[Kr]. 5s2,769,1384
+39,ytrio,Y,b3 metal de transicion,88.906,2 8 18. 9. 2;,[Kr]. 5s2. 4d1,1523,3337
+40,circonio,Zr,b4 metal de transicion,91.224,2 8 18. 10. 2;,[Kr]. 5s2. 4d2,1852,4377
+41,niobio,Nb,b5 metal de transicion,92.906,2 8 18. 12. 1;,[Kr]. 5s1. 4d4,2468,4927
+42,molibdeno,Mo,b6 metal de transicion,95.940,2 8 18. 13. 1;,[Kr]. 5s1. 4d5,2617,5560
+43,tecnecio,Tc,b7 metal de transicion,98.000,2 8 18. 14. 1;,[Kr]. 5s1. 4d6,2172,5030
+44,rutenio,Ru,b8 metal de transicion,101.070,2 8 18. 15. 1;,[Kr]. 5s1. 4d7,2310,3900
+45,rodio,Rh,b8 metal de transicion,102.906,2 8 18. 16. 1;,[Kr]. 5s1. 4d8,1966,3727
+46,paladio,Pd,b8 metal de transicion,106.420,2 8 18. 18.,[Kr]. 4d10,1552,3140
+47,plata,Ag,b1 metal de transicion,107.868,2 8 18. 18; 1.,[Kr]. 4d10. 5s1,961.9,2212
+48,cadmio,Cd,b2 metal de transicion,112.411,2 8 18. 18; 2.,[Kr]. 4d10. 5s2,321,765
+49,indio,In,a3 terreo,114.818,2 8 18. 18; 3.,[Kr]. 4d10. 5s2. 5p1,156.2,2080
+50,estaño,Sn,a4 carbonoideo,118.710,2 8 18. 18; 4.,[Kr]. 4d10. 5s2. 5p2,232,2270
+51,antimonio,Sb,a5 nitrogenoideo,121.760,2 8 18. 18; 5.,[Kr]. 4d10. 5s2. 5p3,630.7,1750
+52,teluro,Te,a6 anfigeno,127.600,2 8 18. 18; 6.,[Kr]. 4d10. 5s2. 5p4,449.6,990
+53,yodo,I,a7 halogeno,126.904,2 8 18. 18; 7.,[Kr]. 4d10. 5s2. 5p5,113.5,184.4
+54,xenon,Xe,0 gas noble,131.290,2 8 18. 18; 8.,[Kr]. 4d10. 5s2. 5p6,-111.9,-107
+55,cesio,Cs,a1 alcalino,132.905,2 8 18. 18; 8; 1.,[X e]. 6s1,28.4,690
+56,bario,Ba,a2 alcalino-terreo,137.327,2 8 18. 18; 8; 2.,[X e]. 6s2,725,1640
+57,lantano,La,b3 lantanido,138.906,2 8 18. 18; 9. 2;,[X e]. 6s2. 5d1,920,3454
+58,cerio,Ce,b3 lantanido,140.116,2 8 18. 19. 9; 2;,[X e]. 6s2. 5d1. 4f1,798,3257
+59,praseodimio,Pr,b3 lantanido,140.908,2 8 18. 21. 8; 2;,[X e]. 6s2. 4f3,931,3212
+60,neodimio,Nd,b3 lantanido,144.240,2 8 18. 22. 8; 2;,[X e]. 6s2. 4f4,1010,3127
+61,promecio,Pm,b3 lantanido,145.000,2 8 18. 23. 8; 2;,[X e]. 6s2. 4f5,1080,2730
+62,samario,Sm,b3 lantanido,150.360,2 8 18. 24. 8; 2;,[X e]. 6s2. 4f6,1072,1778
+63,europio,Eu,b3 lantanido,151.964,2 8 18. 25. 8; 2;,[X e]. 6s2. 4f7,822,1597
+64,gadolinio,Gd,b3 lantanido,157.250,2 8 18. 25; 9. 2;,[X e]. 6s2. 4f7. 5d1,1311,3233
+65,terbio,Tb,b3 lantanido,158.925,2 8 18. 27. 8; 2;,[X e]. 6s2. 4f9,1360,3041
+66,disprosio,Dy,b3 lantanido,162.500,2 8 18. 28. 8; 2;,[X e]. 6s2. 4f10,1409,2335
+67,holmio,Ho,b3 lantanido,164.930,2 8 18. 29. 8; 2;,[X e]. 6s2. 4f11,1470,2720
+68,erbio,Er,b3 lantanido,167.260,2 8 18. 30. 8; 2;,[X e]. 6s2. 4f12,1522,2510
+69,tulio,Tm,b3 lantanido,168.934,2 8 18. 31. 8; 2;,[X e]. 6s2. 4f13,1545,1727
+70,yterbio,Yb,b3 lantanido,173.040,2 8 18 32. 8; 2;,[X e]. 6s2. 4f14,824,1193
+71,lutecio,Lu,b3 lantanido,174.967,2 8 18 32. 9. 2;,[X e]. 6s2. 4f14. 5d1,1656,3315
+72,hafnio,Hf,b4 metal de transicion,178.490,2 8 18 32. 10. 2;,[X e]. 6s2. 4f14. 5d2,2150,5400
+73,tantalo,Ta,b5 metal de transicion,180.948,2 8 18 32. 11. 2;,[X e]. 6s2. 4f14. 5d3,2996,5425
+74,wolframio,W,b6 metal de transicion,183.840,2 8 18 32. 12. 2;,[X e]. 6s2. 4f14. 5d4,3407,5927
+75,renio,Re,b7 metal de transicion,186.207,2 8 18 32. 13. 2;,[X e]. 6s2. 4f14. 5d5,3180,5627
+76,osmio,Os,b8 metal de transicion,190.230,2 8 18 32. 14. 2;,[X e]. 6s2. 4f14. 5d6,3045,5027
+77,iridio,Ir,b8 metal de transicion,192.217,2 8 18 32. 15. 2;,[X e]. 6s2. 4f14. 5d7,2410,4130
+78,platino,Pt,b8 metal de transicion,195.078,2 8 18 32. 17. 1;,[X e]. 6s1. 4f14. 5d9,1772,3827
+79,oro,Au,b1 metal de transicion,196.967,2 8 18 32. 18. 1;,[X e]. 6s1. 4f14. 5d10,1064.4,2940
+80,mercurio,Hg,b2 metal de transicion,200.590,2 8 18 32. 18; 2.,[X e]. 6s2. 4f14. 5d10,-38.9,356.6
+81,talio,Tl,a3 terreo,204.383,2 8 18 32. 18; 3.,[X e]. 6s2. 4f14. 5d10. 6p1,303.6,1457
+82,plomo,Pb,a4 carbonoideo,207.200,2 8 18 32. 18; 4.,[X e]. 6s2. 4f14. 5d10. 6p2,327.5,1740
+83,bismuto,Bi,a5 nitrogenoideo,208.980,2 8 18 32. 18; 5.,[X e]. 6s2. 4f14. 5d10. 6p3,271.4,1560
+84,polonio,Po,a6 anfigeno,210.000,2 8 18 32. 18; 6.,[X e]. 6s2. 4f14. 5d10. 6p4,254,962
+85,astatio,At,a7 halogeno,210.000,2 8 18 32. 18; 7.,[X e]. 6s2. 4f14. 5d10. 6p5,302,337
+86,radon,Rn,0 gas noble,222.000,2 8 18 32. 18; 8.,[X e]. 6s2. 4f14. 5d10. 6p6,-71,-61.8
+87,francio,Fr,a1 alcalino,223.000,2 8 18 32. 18; 8; 1.,[Rn]. 7s1,27,677
+88,radio,Ra,a2 alcalino-terreo,226.000,2 8 18 32. 18; 8; 2.,[Rn]. 7s2,700,1140
+89,actinio,Ac,b3 actinido,227.000,2 8 18 32. 18; 9. 2;,[Rn]. 7s2. 6d1,1047,3197
+90,torio,Th,b3 actinido,232.038,2 8 18 32. 18; 10. 2;,[Rn]. 7s2. 6d2,1750,4787
+91,protoactinio,Pa,b3 actinido,231.036,2 8 18 32. 20. 9; 2;,[Rn]. 7s2. 5f2. 6d1,1554,4030
+92,uranio,U,b3 actinido,238.029,2 8 18 32. 21. 9; 2;,[Rn]. 7s2. 5f3. 6d1,1132.4,3818
+93,neptunio,Np,b3 actinido,237.000,2 8 18 32. 22. 9; 2;,[Rn]. 7s2. 5f4. 6d1,640,3902
+94,plutonio,Pu,b3 actinido,244.000,2 8 18 32. 24. 8; 2;,[Rn]. 7s2. 5f6,641,3327
+95,americio,Am,b3 actinido,243.000,2 8 18 32. 25. 8; 2;,[Rn]. 7s2. 5f7,994,2607
+96,curio,Cm,b3 actinido,247.000,2 8 18 32. 25. 9; 2;,[Rn]. 7s2. 5f7. 6d1,1340,
+97,berkelio,Bk,b3 actinido,247.000,2 8 18 32. 27. 8; 2;,[Rn]. 7s2. 5f9,986,
+98,californio,Cf,b3 actinido,251.000,2 8 18 32. 28. 8; 2;,"[Rn]. 7s2. 5f10 At",900,
+99,einstenio,Es,b3 actinido,252.000,2 8 18 32. 29. 8; 2;,[Rn]. 7s2. 5f11,860,
+100,fermio,Fm,b3 actinido,257.000,2 8 18 32. 30. 8; 2;,[Rn]. 7s2. 5f12,,
+101,mendelevio,Md,b3 actinido,258.000,2 8 18 32. 31. 8; 2;,[Rn]. 7s2. 5f13,,
+102,nobelio,No,b3 actinido,259.000,2 8 18 32. 32. 8; 2;,[Rn]. 7s2. 5f14,,
+103,lawrencio,Lr,b3 actinido,262.000,2 8 18 32. 32. 9; 2;,[Rn]. 7s2. 5f14. 7d1,,
+104,rutherfordio,Rf,sin determinar,261.000,2 8 18 32. 32; 10. 2?,[Rn]. 7s2. 5f14. 6d2?,,
+105,dubnio,Db,sin determinar,262.000,desconocida,desconocida,,
+106,seaborgio,Sg,sin determinar,266.000,desconocida,desconocida,,
+107,bohrio,Bh,sin determinar,264.000,desconocida,desconocida,,
+108,hassio,Hs,sin determinar,269.000,desconocida,desconocida,,
+109,meitnerio,Mt,sin determinar,268.000,desconocida,desconocida,,
+110,darmstadtio,Uun,sin determinar,sin determinar,desconocida,desconocida,,
+111,roentgenio,Uuu,sin determinar,sin determinar,desconocida,desconocida,,
+112,ununbio,Uub,sin determinar,sin determinar,desconocida,desconocida,,
+114,ununquadio,Uuq,sin determinar,sin determinar,desconocida,desconocida,,
+116,ununhexio,Uuh,sin determinar,sin determinar,desconocida,desconocida,,
