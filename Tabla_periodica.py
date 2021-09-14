@@ -1,6 +1,6 @@
 from difflib import SequenceMatcher as SM
-ARCHIVO = "C:\\Users\\gury_\\Desktop\\Proyect\\Python\\TABLA_PERIODICA\\tabla periodica.csv"
-#C:\\Users\\gury_\\Desktop\\Proyect\\Python\\TABLA_PERIODICA\\tabla periodica.csv
+ARCHIVO = "\tabla periodica.csv"
+#\tabla periodica.csv
 
 def leerDesdeArchivo(nombreArchivo):
     tabla = {}
